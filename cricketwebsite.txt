@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Cricket's best players</title>
+</head>
+<body>
+<hr>
+<h1>TOP PLAYER IN CRICKET</h1>\
+<hr>
+<h2>1.Virat Kohli</h2>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fvirat.kohli%2F&psig=AOvVaw3Ngn0lLw6GzvHQCJ3ifnmO&ust=1667634783450000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCc3fGGlPsCFQAAAAAdAAAAABAE" alt="virat kohli" width="250" height="300">
+<hr>
+<p>
+A spunky, chubby teenager with gelled hair shot to
+ fame after leading India to glory in the Under-19 World Cup at Kuala Lumpur in
+ early 2008. In an Indian team filled with saint-like icons worthy of their own
+hagiographies, Virat Kohli, with his most un-Indian, 'bad-boy' intensity, would 
+clearly be an outcast.
+<br>
+He soon joined the senior Men in Blue in Sri Lanka, come August 2008. In the absence of the regular openers, 
+Virat Kohli was given a chance to open the batting in the ODI series. He played some commendable knocks in
+ his extended run as an opener, as India went on to win the ODI series. However,
+ the established and formidable pair of Tendulkar and Sehwag kept Kohli out of the team
+</p>
+</body>
+</html>
